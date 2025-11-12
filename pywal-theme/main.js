@@ -142,6 +142,7 @@ class PywalThemePlugin extends Plugin {
  */
 .theme-dark, .theme-light {
     --background-primary: ${special.background};
+    --background-primary-alt: ${colors.color2}30;
     --background-secondary: ${colors.color0};
     --background-secondary-alt: ${colors.color0};
     --background-modifier-border: ${colors.color8};
