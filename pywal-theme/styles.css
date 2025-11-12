@@ -6,6 +6,7 @@
 
 .theme-dark, .theme-light {
   --background-primary: #1a1b26;
+  --background-primary-alt: ${colors.color2}30;
   --background-secondary: #24283b;
   --text-normal: #c0caf5;
   --text-muted: #a9b1d6;
