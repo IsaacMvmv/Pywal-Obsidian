@@ -15,10 +15,13 @@
   --interactive-accent-hover: #2ac3de;
   --text-highlight-bg: rgba(122, 162, 247, 0.2);
 
-  --color-red: #f7768e;
-  --color-green: #9ece6a;
-  --color-yellow: #e0af68;
-  --color-blue: #7aa2f7;
-  --color-magenta: #bb9af7;
-  --color-cyan: #2ac3de;
+  --color-red: ${colors.color1};
+  --color-green: ${colors.color2};
+  --color-yellow: ${colors.color3};
+  --color-blue: ${colors.color4};
+  --color-magenta: ${colors.color5};
+  --color-cyan: ${colors.color6};
+  --color-pink: ${colors.color7};
+  --color-purple: ${colors.color8};
+  --color-orange: ${colors.color3};
 }
