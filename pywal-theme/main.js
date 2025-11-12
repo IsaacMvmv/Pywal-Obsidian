@@ -159,6 +159,9 @@ class PywalThemePlugin extends Plugin {
     --color-blue: ${colors.color4};
     --color-magenta: ${colors.color5};
     --color-cyan: ${colors.color6};
+    --color-pink: ${colors.color7};
+    --color-purple: ${colors.color8};
+    --color-orange: ${colors.color3};
 }
         `;
     }
